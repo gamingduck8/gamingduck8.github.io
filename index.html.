@@ -1,0 +1,53 @@
+DOCTYPE html>
+chtml lang="it">
+
+chead>
+<meta charset='UTF-8"s|
+<meta name =* viewport" content="width=device-width, initial-scale=1.0'>
+ctitlgoIl mio laboratorio Web</title>
+<link rel="stylesheet" href="style.css"s
+</head>
+
+cbody>
+
+<header>
+h1>Il mio laboratorio Webc/h1>
+<p>Un piccolo spazio per raccontare ciò che sto imparando a scuola .< /p>
+</header>
+
+<maim
+
+section>
+ch2>ll Progetto</h2>
+<p>
+Questo sito raccogliera alcune esperienze tecniche
+reslizzate durante il mio percorso di Informatica e TPSI.
+
+</section>
+
+<section
+<h2>Competenze in Sviluppo</h2>
+sub
+di»Git e GitHub</i>
+dlisHTML5 Semantico</lis
+<li>CSS3 Fogli di Stile</i>
+</ul>
+<section>
+
+<section>
+ch2>Prima Esperienza</h2>
+
+Ho creato questo sito utiizzando un repository GitHub
+e il servizio di hosting statico GitHub Pages.
+
+</section>
+
+</main>
+
+<footer>
+sp>Laboratorio Scolastico di Informatica - Anno Scolastico 2026/2027</p
+</footer>
+
+</body>
+
+/htmls

@@ -1,45 +1,49 @@
 DOCTYPE html>
 chtml lang="it">
 
-chead>
-<meta charset='UTF-8"s|
+<head>
+<meta charset='UTF-8">|
 <meta name =* viewport" content="width=device-width, initial-scale=1.0'>
-ctitlgoIl mio laboratorio Web</title>
-<link rel="stylesheet" href="style.css"s
+<title>Il mio laboratorio Web</title>
+<link rel="stylesheet" href="style.css">
 </head>
 
-cbody>
+<body>
 
 <header>
-h1>Il mio laboratorio Webc/h1>
-<p>Un piccolo spazio per raccontare ciò che sto imparando a scuola .< /p>
+<h1>Il mio laboratorio Webc</h1>
+<p>Un piccolo spazio per raccontare ciò che sto imparando a scuola .</p>
 </header>
 
-<maim
+<main>
 
-section>
-ch2>ll Progetto</h2>
+<section>
+<h2>ll Progetto</h2>
 <p>
 Questo sito raccogliera alcune esperienze tecniche
-reslizzate durante il mio percorso di Informatica e TPSI.
+reslizzate durante il mio percorso di Informatica e TPSI
+</p>
 
 </section>
 
-<section
+<section>
 <h2>Competenze in Sviluppo</h2>
-sub
-di»Git e GitHub</i>
-dlisHTML5 Semantico</lis
+<ul>
+<li>Git e GitHub</li>
+<li>HTML5 Semantico</li>
 <li>CSS3 Fogli di Stile</i>
 </ul>
-<section>
+</section>
 
 <section>
-ch2>Prima Esperienza</h2>
+<h2>Prima Esperienza</h2>
 <p>
 Ho creato questo sito utiizzando un repository GitHub
 e il servizio di hosting statico GitHub Pages.
 </p>
+</section>
+
+<section>
 <h2>la mia prima pubblicazione web <h2>
 <p>
 Oggi in laboratorio ho compreso la differenza fondamentale tra 
@@ -50,9 +54,9 @@ salvare un file di codice in un repository e vederlo pubblicato sul Web.
 </main>
 
 <footer>
-sp>Laboratorio Scolastico di Informatica - Anno Scolastico 2026/2027</p
+<p>Laboratorio Scolastico di Informatica - Anno Scolastico 2026/2027</p>
 </footer>
 
 </body>
 
-/htmls
+</htmls>
